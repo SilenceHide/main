@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ECRecoverToken.sol": "TokenSender"
+			"contracts/ECRecoverTokenSender.sol": "TokenSender"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -112,12 +112,20 @@
 				"dweb:/ipfs/QmVBEei6aTnvYNZp2CHYVNKyZS4q1KkjANfY39WVXZXVoT"
 			]
 		},
-		"contracts/ECRecoverToken.sol": {
-			"keccak256": "0xecb91e02a538f25d67bb46416807f2fb44b53604409f20d70bd065f7e373f9da",
+		"contracts/ECRecoverTokenSender.sol": {
+			"keccak256": "0x6bc930985cdf5f0d895b94ac67c9caac227b4ee1d26428aade20b73d2f2e6877",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1fd0e115875d309f315bb4ed3789110d8e00e825d1ed88ca5a9f8e4f359972f6",
-				"dweb:/ipfs/QmfFrFJ7MEg47R7YyZarXpctWvCHQwgskNMWnoxmDgyYnn"
+				"bzz-raw://249a3736e46518538350a99e6bd8af88984d76b1fd3353ce5537e19bf0c01307",
+				"dweb:/ipfs/QmSoAC8zniCz9nMkjJUj1nppRVH2XZwpYguuxU2H1KpHKb"
+			]
+		},
+		"contracts/Mytoken.sol": {
+			"keccak256": "0x7b25882749b8807ac3bdea16afd22337c0133257edbee9ce9e8223657336e7cf",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e7d2d8cbb691a1946e6ef2e4bc84a8ac5a779951c3701d12589f524dbe3884d3",
+				"dweb:/ipfs/QmYarFbrkDLEnayfmkDf8TS12S1yyMnvWD8BMqcn7AhvBF"
 			]
 		}
 	},
